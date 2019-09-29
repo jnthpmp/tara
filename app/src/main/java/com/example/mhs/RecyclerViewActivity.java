@@ -37,18 +37,8 @@ public class RecyclerViewActivity extends AppCompatActivity {
 
 
         mahasiswaArrayList = new ArrayList<>();
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
-        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094", "081328308"));
+        mahasiswaArrayList.add(new Mahasiswa("Jona", "72170094","081328308",R.drawable.ic_launcher_background));;
+
     }
 }
 
